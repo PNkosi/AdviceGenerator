@@ -76,10 +76,6 @@ body {
 } */
 
 @media screen and (max-width: 1440px) {
-  .container {
-    width: 50%;
-  }
-
   .mobile-divider {
     display: none;
   }
